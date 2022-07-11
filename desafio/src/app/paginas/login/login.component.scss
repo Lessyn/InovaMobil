@@ -1,0 +1,28 @@
+.conteudo-login{
+    display: flex;
+    margin: 10%;
+    justify-content: center;
+    align-items: center;
+
+
+    .conteudo-form {
+        border-radius: 10px;
+        background: white;
+        box-shadow: 0 30px 60px 0 gray;
+        text-align: center;
+        width: 45%;
+        height: 350px;
+    }
+}
+.input-login{
+    background-color: #f6f6f6;
+    border: none;
+    color: #0d0d0d;
+    padding: 15px 0px;
+    text-align: center;
+    font-size: 16px;
+    margin: 5px;
+    width: 90%;
+    border: 2px solid #f6f6f6;
+    border-radius: 5px;
+}
